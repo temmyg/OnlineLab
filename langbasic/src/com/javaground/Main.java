@@ -13,7 +13,5 @@ public class Main {
         Vector v2 = new Vector();
         System.out.println("space=" + v2.spaces);
         //int nCount = Vector.nodeCount;
-
-        //Node nd = Node.self();
     }
 }
