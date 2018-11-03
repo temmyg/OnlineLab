@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/langbasic.iml" filepath="$PROJECT_DIR$/langbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langbasic-genericarray/langbasic-genericarray.iml" filepath="$PROJECT_DIR$/langbasic-genericarray/langbasic-genericarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../langbasic-generics/langbasic-generics.iml" filepath="$PROJECT_DIR$/../langbasic-generics/langbasic-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../langbasic-typeinfo/langbasic-typeinfo.iml" filepath="$PROJECT_DIR$/../langbasic-typeinfo/langbasic-typeinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../langbasic2/langbasic2.iml" filepath="$PROJECT_DIR$/../langbasic2/langbasic2.iml" />
+    </modules>
+  </component>
+</project>
